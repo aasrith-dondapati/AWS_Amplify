@@ -1,0 +1,15 @@
+{
+  "version": 1,
+  "serviceConfiguration": {
+    "apiName": "awsamplify",
+    "serviceName": "AppSync",
+    "defaultAuthType": {
+      "mode": "API_KEY",
+      "expirationTime": 15,
+      "apiKeyExpirationDate": "2025-03-01T21:51:22.098Z",
+      "keyDescription": "aws-amplify"
+    },
+    "conflictResolution": {},
+    "additionalAuthTypes": []
+  }
+}

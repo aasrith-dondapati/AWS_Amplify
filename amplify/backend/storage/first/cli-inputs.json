@@ -1,0 +1,12 @@
+{
+  "resourceName": "first",
+  "policyUUID": "6ff6b423",
+  "bucketName": "awsamplify",
+  "storageAccess": "auth",
+  "guestAccess": [],
+  "authAccess": [
+    "READ"
+  ],
+  "triggerFunction": "S3Triggerf5f59b00",
+  "groupAccess": {}
+}
